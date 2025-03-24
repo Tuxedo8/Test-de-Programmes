@@ -1,0 +1,129 @@
+
+Vide
+103
+Correcte Longeur Min 20
+196
+Correcte Longeur Min 50
+196
+Correcte Longeur Min 100
+196
+Correcte Longeur Min 300
+196
+Correcte Longeur Min 500
+196
+Correcte Longeur Min 1000
+196
+Correcte Longeur Min 2000
+224
+Correcte Imbrication Min 20
+196
+Correcte Imbrication Min 50
+224
+Correcte Imbrication Min 100
+224
+Correcte Imbrication Min 300
+224
+Correcte Imbrication Min 500
+224
+Correcte Imbrication Min 1000
+224
+Correcte Imbrication Min 2000
+224
+Incorrecte Longeur Min 20
+57
+Incorrecte Longeur Min 50
+57
+Incorrecte Longeur Min 100
+57
+Incorrecte Longeur Min 300
+57
+Incorrecte Longeur Min 500
+57
+Incorrecte Longeur Min 1000
+57
+Incorrecte Longeur Min 2000
+57
+Incorrecte Imbrication Min 20
+57
+Incorrecte Imbrication Min 50
+57
+Incorrecte Imbrication Min 100
+57
+Incorrecte Imbrication Min 300
+57
+Incorrecte Imbrication Min 500
+57
+Incorrecte Imbrication Min 1000
+57
+Incorrecte Imbrication Min 2000
+57
+/BUG\ Ne compte plus les ouvrantes après une fermant longueur min 20
+97
+/BUG\ Ne compte plus les ouvrantes après une fermant longueur min 50
+97
+/BUG\ Ne compte plus les ouvrantes après une fermant longueur min 100
+97
+/BUG\ Ne compte plus les ouvrantes après une fermant longueur min 300
+97
+/BUG\ Ne compte plus les ouvrantes après une fermant longueur min 500
+97
+/BUG\ Ne compte plus les ouvrantes après une fermant longueur min 1000
+97
+/BUG\ Ne compte plus les ouvrantes après une fermant longueur min 2000
+97
+/BUG\ Fermante non compte longueur min 20
+91
+/BUG\ Fermante non compte longueur min 50
+91
+/BUG\ Fermante non compte longueur min 100
+91
+/BUG\ Fermante non compte longueur min 300
+91
+/BUG\ Fermante non compte longueur min 500
+91
+/BUG\ Fermante non compte longueur min 1000
+91
+/BUG\ Fermante non compte longueur min 2000
+91
+/BUG\ Ouvrante non compte longueur min 20
+109
+/BUG\ Ouvrante non compte longueur min 50
+109
+/BUG\ Ouvrante non compte longueur min 100
+109
+/BUG\ Ouvrante non compte longueur min 300
+109
+/BUG\ Ouvrante non compte longueur min 500
+109
+/BUG\ Ouvrante non compte longueur min 1000
+109
+/BUG\ Ouvrante non compte longueur min 2000
+109
+/BUG\ Pas de difference de type longueur min 20
+123
+/BUG\ Pas de difference de type longueur min 50
+123
+/BUG\ Pas de difference de type longueur min 100
+123
+/BUG\ Pas de difference de type longueur min 300
+123
+/BUG\ Pas de difference de type longueur min 500
+123
+/BUG\ Pas de difference de type longueur min 1000
+123
+/BUG\ Pas de difference de type longueur min 2000
+123
+/BUG\ Imbrication sans difference de type min 20
+123
+/BUG\ Imbrication sans difference de type min 50
+123
+/BUG\ Imbrication sans difference de type min 100
+123
+/BUG\ Imbrication sans difference de type min 300
+123
+/BUG\ Imbrication sans difference de type min 500
+123
+/BUG\ Imbrication sans difference de type min 1000
+123
+/BUG\ Imbrication sans difference de type min 2000
+123
