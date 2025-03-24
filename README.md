@@ -1,6 +1,7 @@
 Extraire le contenu de  https://prog5.gricad-pages.univ-grenoble-alpes.fr/Apnee_Tests/programs.zip dans un nouveau dossier all_programs/ dans le répertoire courant.
 
 Sujet : 'ALGO_ Sujet APNEE2 .pdf' qui se base sur l'énoncé 'Test de programmes.pdf'
+Rapport du rendu : 'Rapport-ALGO-APNEE-2.pdf', contient plus de détails sur le projet.
 
 # Présentation
 **IMPORTANT : Les 500 programmes à tester sont dans le dossier *all_programs/*, il est à mettre dans le répertoire courant d’où on va lancer le programme *check.sh* et *test1.c*, ainsi que tous les autres fichiers d’en-tête. Un Makefile est fournie.**
